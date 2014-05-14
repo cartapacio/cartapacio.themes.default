@@ -1,0 +1,15 @@
+{
+  "title" : "Cartapacio",
+
+  "subtitle" : "default theme",
+  
+  "sidebar":{
+    "menu":[
+      "Uno",
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+      ]
+  }
+}
