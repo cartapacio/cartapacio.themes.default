@@ -5,11 +5,18 @@
   
   "sidebar":{
     "menu":[
-      "Uno",
-      "Dos",
-      "Tres",
-      "Cuatro",
-      "Cinco"
+      {"text": "Uno", "link":"project.html"},
+      {"text":"Dos", "link":"#"},
+      {"text":"Tres", "link":"#"},
+      {"text":"Cuatro","link":"#"} ,
+      {"text":"Cinco", "link":"#"}
       ]
+  },
+
+  "project":{
+    "title":"Judith Beheading Holofernes",
+    "date":"1598 - 1599",
+    "technique":"oil on canvas",
+    "image":"assets/img/640px-Caravaggio_Judith_Beheading_Holofernes.jpg"
   }
 }
