@@ -1,3 +1,27 @@
 <div>
-	<h1>This is the main content</h1>
+  <h1>{{document.title}}</h1>
+
+  <p>{{document.body.description}}</p>
+
+  <p>{{document.body.date}}</p>
+
+  <ul>
+  {{#each document.body.links}}
+    <li><a href="{{this.url}}">{{this.name}}</a></li>
+  {{/each}}
+  </ul>
+
+  <div>
+    {{#each document.body.videos}}
+      {{{this.code}}}
+    {{/each}}
+  </div>
+
+  <div>
+    {{#each document.body.images}}
+      {{this.title}}
+      <img src="{{this.file}}" alt="">
+    {{/each}}
+  </div>
+
 </div>

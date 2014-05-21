@@ -1,8 +1,8 @@
 <div>
-	<h1>Menu</h1>
-	<ul class="nav nav-stacked">
-		{{#each site.sidebar.menu }}
-		<li><a href={{this.link}}>{{this.text}}</a></li>
-		{{/each}}
-	</ul>
+  <h1><a href="index.html">{{site.title}}</a></h1>
+  <ul class="nav nav-stacked">
+    {{#each sidebar.menu}}
+    <li><a href="{{this.slug}}.html">{{this.title}}</a></li>
+    {{/each}}
+  </ul>
 </div>
