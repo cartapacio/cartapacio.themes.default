@@ -1,0 +1,32 @@
+{
+  "author":{
+      "name" : "Michelangelo Merisi da Caravaggio",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg/361px-Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
+      "email":"michelangelo@caravaggio.com",
+      "address":"Madama Palace, Piazza Madama, 00186 Roma, Italy"
+    },
+  "studies":[
+    {
+      "institution":"Simone Peterzano's atelier",
+      "dates":"1584 - 1590",
+      "location":"Milan, Italy"
+    }
+    ],
+  "exhibitions":[
+    {
+      "title":"The Habsburgs: Rarely Seen Masterpieces From Europe’s Greatest Dynasty",
+      "dates":"February 15 – May 10, 2015",
+      "location":"Minneapolis Institute of Arts, Minneapolis, MN, USA "
+    },
+    {
+      "title":"Rome 17th Century: Towards Baroque",
+      "dates":"April 30, 2014 - February 2015",
+      "location":"National Museum of China, Beijing, China"
+    },
+    {
+      "title":"Caravaggio to Canaletto",
+      "dates":"October 26, 2013 – February 16, 2014",
+      "location":"Museum of Fine Arts, Budapest, Hungary"
+    }
+    ]
+}

@@ -1,0 +1,26 @@
+<div>
+  <div>
+    {{#each documents.body.images}}
+      {{this.title}}
+      <img src="{{this.file}}" alt="">
+    {{/each}}
+  </div>
+
+  <div>
+    {{#each documents.body.videos}}
+      {{{this.code}}}
+    {{/each}}
+  </div>
+
+  <h1>{{documents.title}}</h1>
+
+  <p>{{documents.body.description}}</p>
+
+  <p>{{documents.body.date}}</p>
+  
+  <ul>
+    {{#each documents.body.links}}
+      <li><a href="{{this.url}}">{{this.name}}</a></li>
+    {{/each}}
+  </ul>
+</div>

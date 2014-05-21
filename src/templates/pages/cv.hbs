@@ -1,0 +1,25 @@
+<div>
+  <div>
+    <h1>Curriculum Vitae</h1>
+    <h2>{{cv.author.name}}</h2>
+    <p> 
+      <a href="mailto:{{cv.author.email}}?Subject=Hello">{{cv.author.email}}</a>
+    </p>
+    <p>{{cv.author.address}}</p>
+  </div>
+  <div>
+    <h2>Exhibitions</h2>
+
+      <ul>
+      {{# each cv.exhibitions}}
+        <li>
+          <div>
+            <p>{{this.title}}</p>
+            <p>{{this.dates}}</p>
+            <p>{{this.location}}</p>
+          </div>
+        </li>
+      {{/ each}}
+      </ul>
+  </div>
+</div>

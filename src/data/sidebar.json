@@ -1,0 +1,8 @@
+{
+  "menu":[
+      {"title": "Projects", "slug":"index"},
+      {"title":"Cv", "slug":"cv"},
+      {"title":"About","slug":"about"} ,
+      {"title":"Social", "slug":"#"}
+  ]
+}
