@@ -1,6 +1,6 @@
 {
   "name": "cartapacio-themes-default",
- "description": "Cartapacio default theme for user sites.",
+  "description": "Cartapacio default theme for user sites.",
   "version": "0.1.0",
   "homepage": "https://github.com/decolector/cartapacio-themes-default",
   "author": {
@@ -42,5 +42,8 @@
     "site generator",
     "site builder",
     "grunt"
-  ]
+  ],
+  "dependencies": {
+    "grunt-contrib-copy": "~0.5.0"
+  }
 }

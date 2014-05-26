@@ -24,7 +24,8 @@ module.exports = function(grunt) {
 
     config: {
       src: 'src',
-      dist: 'dist'
+      dist: 'dist',
+
     },
 
     watch: {
@@ -37,10 +38,17 @@ module.exports = function(grunt) {
           livereload: '<%= connect.options.livereload %>'
         },
         files: [
+          //'<%= config.src %>/{,*/}*.html',
+          //'<%= config.src %>/assets/{,*/}*.css',
+          //'<%= config.src %>/assets/{,*/}*.js',
+          //'<%= config.src %>/assets/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
+      
+          
           '<%= config.dist %>/{,*/}*.html',
           '<%= config.dist %>/assets/{,*/}*.css',
           '<%= config.dist %>/assets/{,*/}*.js',
           '<%= config.dist %>/assets/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
+
         ]
       }
     },
@@ -59,6 +67,13 @@ module.exports = function(grunt) {
             '<%= config.dist %>'
           ]
         }
+      }
+    },
+
+    copy: {
+      main:{
+        src: '<%= config.src %> /assets/*',
+        dest:'<%= config.dist %>  /assets/'
       }
     },
 
@@ -87,17 +102,20 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-contrib-copy');
 
   grunt.registerTask('server', [
     'clean',
     'assemble',
+    'copy',
     'connect:livereload',
     'watch'
   ]);
 
   grunt.registerTask('build', [
     'clean',
-    'assemble'
+    'assemble',
+    'copy'
   ]);
 
   grunt.registerTask('default', [
