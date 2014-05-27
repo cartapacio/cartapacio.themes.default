@@ -4,7 +4,7 @@
     "body":{
       "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
       "date": "1598 - 1599",
-      "thumb":"http://www.bible-art.info/Copy_of_Maid-judith-beheading-holofernes-caravaggio.jpg",
+      "thumb":"https://1.bp.blogspot.com/-lQn34TpN6DA/TvJydC7srfI/AAAAAAAAAyM/OnhlXQ3ouvE/s290/judith.jpg",
       "images": [
         {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Caravaggio_Judith_Beheading_Holofernes.jpg/640px-Caravaggio_Judith_Beheading_Holofernes.jpg"}
       ],
@@ -16,14 +16,31 @@
     }
   },
 
-    {
+ {
     "title": "The Crucifixion of Saint Peter",
     "body":{
       "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
       "date": "1601",
-      "thumb":"http://www.museumsyndicate.com/images/2/thumbs/16016_t.jpg",
+      "thumb":"http://www.lavocesociale.it/wp-content/uploads/2014/01/Il-Caravaggio-e-la-Crocifissione-di-San-Pietro-200x200.jpg",
       "images": [
         {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Caravaggio_-_Martirio_di_San_Pietro.jpg/464px-Caravaggio_-_Martirio_di_San_Pietro.jpg"}
+      ],
+
+      "links":[
+        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
+        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      ]
+    }
+  },
+
+   {
+    "title": "The Incredulity of Saint Thomas",
+    "body":{
+      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
+      "date": "1601 - 1602",
+      "thumb":"http://www.artmuseum.cz/resources/works/caravaggio_04_detail_02.jpg",
+      "images": [
+        {"file" : "https://en.wikipedia.org/wiki/File:Caravaggio_-_The_Incredulity_of_Saint_Thomas.jpg"}
       ],
 
       "links":[

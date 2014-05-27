@@ -30,7 +30,7 @@ module.exports = function(grunt) {
 
     watch: {
       assemble: {
-        files: ['<%= config.src %>/{content,data,templates}/{,*/}*.{md,hbs,yml}'],
+        files: ['<%= config.src %>/{content,data,templates,assets}/{,*/}*.{md,hbs,yml}'],
         tasks: ['assemble']
       },
       livereload: {
@@ -38,16 +38,16 @@ module.exports = function(grunt) {
           livereload: '<%= connect.options.livereload %>'
         },
         files: [
-          //'<%= config.src %>/{,*/}*.html',
-          //'<%= config.src %>/assets/{,*/}*.css',
-          //'<%= config.src %>/assets/{,*/}*.js',
-          //'<%= config.src %>/assets/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
+          '<%= config.src %>/{,*/}*.html',
+          '<%= config.src %>/assets/{,*/}*.css',
+          '<%= config.src %>/assets/{,*/}*.js',
+          '<%= config.src %>/assets/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
       
           
-          '<%= config.dist %>/{,*/}*.html',
-          '<%= config.dist %>/assets/{,*/}*.css',
-          '<%= config.dist %>/assets/{,*/}*.js',
-          '<%= config.dist %>/assets/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
+          //'<%= config.dist %>/{,*/}*.html',
+          //'<%= config.dist %>/assets/{,*/}*.css',
+          //'<%= config.dist %>/assets/{,*/}*.js',
+          //'<%= config.dist %>/assets/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
 
         ]
       }
@@ -72,8 +72,12 @@ module.exports = function(grunt) {
 
     copy: {
       main:{
-        src: '<%= config.src %> /assets/*',
-        dest:'<%= config.dist %>  /assets/'
+        expand : true,
+        cwd:'<%= config.src %>/assets/',
+        //src: '<%= config.src %> /assets',
+        //dest:'<%= config.dist %>  /assets'
+        src: '**',
+        dest:'<%= config.dist %>/assets/'
       }
     },
 
@@ -106,16 +110,17 @@ module.exports = function(grunt) {
 
   grunt.registerTask('server', [
     'clean',
-    'assemble',
     'copy',
+    'assemble',
     'connect:livereload',
     'watch'
   ]);
 
   grunt.registerTask('build', [
     'clean',
-    'assemble',
-    'copy'
+    'copy',
+    'assemble'
+
   ]);
 
   grunt.registerTask('default', [

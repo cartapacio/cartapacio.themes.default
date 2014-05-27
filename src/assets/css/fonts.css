@@ -1,0 +1,24 @@
+@font-face {
+	font-family : 'ClearSansRegular';
+	src : url('../fonts/clear-sans/ClearSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family : 'ClearSansBold';
+	src : url('../fonts/clear-sans/ClearSans-Regular.ttf'), format('truetype');
+}
+
+@font-face{
+	font-family: 'ClearSansBold';
+	src : '../fonts/clear-sans/ClearSans-Bold.ttf', format('truetype');
+}
+
+@font-face{
+	font-family: 'ClearSansLight';
+	src : url('../fonts/ClearSans-Light.ttf'), format('truetype');
+}
+
+@font-face{
+	font-family: 'ClearSansItalic';
+	src : '../fonts/ClearSans-Italic.ttf', format('truetype');
+}

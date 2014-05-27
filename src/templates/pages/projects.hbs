@@ -11,13 +11,13 @@
       {{{this.code}}}
     {{/each}}
   </div>
+    <div id="ficha-tecnica">
+      <h3>{{documents.title}}</h3>
 
-  <h1>{{documents.title}}</h1>
+      <p>{{documents.body.description}}</p>
 
-  <p>{{documents.body.description}}</p>
-
-  <p>{{documents.body.date}}</p>
-  
+      <p>{{documents.body.date}}</p>
+    </div>
   <ul>
     {{#each documents.body.links}}
       <li><a href="{{this.url}}">{{this.name}}</a></li>

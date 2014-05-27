@@ -1,13 +1,16 @@
-<div>
-    {{#each documents}}
-    <div>
+<div class="row">
+  {{#each documents}}
+  <div class="col-md-4 col-lg-4">
+
+    <div class="thumbnail">
       <div>
         <a href="project.html" ><img src="{{this.body.thumb}}" alt=""></a>
       </div>
-      <div>
+      <div class="caption">
         {{this.title}}        
       </div>
     </div>
-    {{/each}}
+  </div>
+  {{/each}}
 </div>
 
