@@ -1,25 +1,25 @@
 <div>
   <div>
-    {{#each document.body.images}}
+    {{#each document.images}}
       {{this.title}}
-      <img src="{{this.file}}" alt="">
+      <img src="/{{this.file}}" alt="">
     {{/each}}
   </div>
 
   <div>
-    {{#each document.body.videos}}
+    {{#each document.videos}}
       {{{this.code}}}
     {{/each}}
   </div>
 
   <h1>{{document.title}}</h1>
 
-  <p>{{document.body.description}}</p>
+  <p>{{{document.description}}}</p>
 
-  <p>{{document.body.date}}</p>
-  
+  <p>{{document.date}}</p>
+
   <ul>
-    {{#each document.body.links}}
+    {{#each document.links}}
       <li><a href="{{this.url}}">{{this.name}}</a></li>
     {{/each}}
   </ul>
