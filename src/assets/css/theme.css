@@ -22,3 +22,8 @@ body {
 h1, h2, h3, .nav {
 	font-family: ClearSansBold;
 }
+
+.body{
+	max-height: 100%;
+	overflow-y : scroll;
+}

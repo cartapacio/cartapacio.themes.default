@@ -48,5 +48,122 @@
         {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
       ]
     }
+  },
+     {
+    "title": "Amor Vincit Omnia",
+    "body":{
+      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
+      "date": "1601 - 1602",
+      "thumb":"http://images.sartle.com/imagesi/1000131cl.jpg",
+      "images": [
+        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amor_Vincet_Omnia.jpg/342px-Amor_Vincet_Omnia.jpg"}
+      ],
+
+      "links":[
+        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
+        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      ]
+    }
+  },
+       {
+    "title": "David with the Head of Goliath",
+    "body":{
+      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
+      "date": "1609 - 1610",
+      "thumb":"http://www.kingsgalleries.com/wp-content/uploads/2010/07/caravaggio-david-goliath-Thumb.jpg",
+      "images": [
+        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Caravaggio_-_David_con_la_testa_di_Golia.jpg/388px-Caravaggio_-_David_con_la_testa_di_Golia.jpg"}
+      ],
+
+      "links":[
+        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
+        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      ]
+    }
+  },
+
+  {
+    "title": "The taking of christ",
+    "body":{
+      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
+      "date": "1609 - 1610",
+      "thumb":"http://www.wnyc.org/i/200/0/c/80/photologue/photos/michelangelo_caravaggio_resize.jpg",
+      "images": [
+        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Caravaggio_-_Taking_of_Christ_-_Dublin.jpg/624px-Caravaggio_-_Taking_of_Christ_-_Dublin.jpg"}
+      ],
+
+      "links":[
+        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
+        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      ]
+    }
+  },
+
+    {
+    "title": "Boy with a Basket of Fruit",
+    "body":{
+      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
+      "date": "1594",
+      "thumb":"http://hpbimg.pittart.com/Caravaggio-ragazzo-canestro-frutta.jpg",
+      "images": [
+        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg/459px-Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg"}
+      ],
+
+      "links":[
+        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
+        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      ]
+    }
+  },
+
+    {
+    "title": "Basket of fruit",
+    "body":{
+      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
+      "date": "1609 - 1610",
+      "thumb":"http://www.artmuseum.cz/resources/works/caravaggio_16c.jpg",
+      "images": [
+        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Canestra_di_frutta_%28Caravaggio%29.jpg/607px-Canestra_di_frutta_%28Caravaggio%29.jpg"}
+      ],
+
+      "links":[
+        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
+        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      ]
+    }
+  },
+
+    {
+    "title": "The Calling of Saint Matthew",
+    "body":{
+      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
+      "date": "1599 - 1600",
+      "thumb":"http://www.oilpaintingart.us/media/movsub/religion-painting/caravaggio.jpg",
+      "images": [
+        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Caravaggio%2C_Michelangelo_Merisi_da_-_The_Calling_of_Saint_Matthew_-_1599-1600_%28hi_res%29.jpg/513px-Caravaggio%2C_Michelangelo_Merisi_da_-_The_Calling_of_Saint_Matthew_-_1599-1600_%28hi_res%29.jpg"}
+      ],
+
+      "links":[
+        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
+        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      ]
+    }
+  },
+
+    {
+    "title": "Supper at Emmaus",
+    "body":{
+      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
+      "date": "1601",
+      "thumb":"http://www.artmuseum.cz/resources/works/caravaggio_11c.jpg",
+      "images": [
+        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Caravaggio_-_Cena_in_Emmaus.jpg/576px-Caravaggio_-_Cena_in_Emmaus.jpg"}
+      ],
+
+      "links":[
+        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
+        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      ]
+    }
   }
 ]
