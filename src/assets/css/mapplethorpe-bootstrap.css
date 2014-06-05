@@ -12,7 +12,7 @@ main,
 nav,
 section,
 summary {
-  display: block;
+  display: block;t
 }
 audio,
 canvas,
@@ -27,6 +27,7 @@ audio:not([controls]) {
   display: none;
 }
 html {
+
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;

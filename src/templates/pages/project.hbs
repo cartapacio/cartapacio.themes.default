@@ -1,25 +1,28 @@
+<div> <h2 class="text-center">{{document.title}}</h2></div>
 <div>
-  <div>
-    {{#each document.images}}
-      {{this.title}}
-      <img src="/{{this.file}}" alt="">
-    {{/each}}
-  </div>
 
+    {{#each document.body.images}}
+      <div class="thumbnail">
+        <img src="{{this.file}}" alt="" class="img-responsive full-width">
+      </div>
+      {{#if_eq @index compare=0}}
+
+      {{/if_eq}}
+
+    {{/each}}
   <div>
     {{#each document.videos}}
       {{{this.code}}}
     {{/each}}
   </div>
 
-  <h1>{{document.title}}</h1>
-
-  <p>{{{document.description}}}</p>
-
-  <p>{{document.date}}</p>
+  <div>
+    <p>{{document.body.date}}<p>
+    <p>{{document.body.description}}</p>
+ </div>
 
   <ul>
-    {{#each document.links}}
+    {{#each document.body.links}}
       <li><a href="{{this.url}}">{{this.name}}</a></li>
     {{/each}}
   </ul>

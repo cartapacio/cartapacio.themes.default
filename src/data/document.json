@@ -5,7 +5,9 @@
     "date": "1598 - 1599",
     "thumb":"http://www.bible-art.info/Copy_of_Maid-judith-beheading-holofernes-caravaggio.jpg",
     "images": [
-      {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Caravaggio_Judith_Beheading_Holofernes.jpg/640px-Caravaggio_Judith_Beheading_Holofernes.jpg"}
+      {"file": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Caravaggio_Judith_Beheading_Holofernes.jpg/640px-Caravaggio_Judith_Beheading_Holofernes.jpg"},
+      {"file":"https://upload.wikimedia.org/wikipedia/commons/1/12/Michelangelo_Merisi_da_Caravaggio_-_Judith_Beheading_Holofernes_(detail)_-_WGA04104.jpg"},
+      {"file": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Michelangelo_Merisi_da_Caravaggio_-_Judith_Beheading_Holofernes_(detail)_-_WGA04103.jpg"}
     ],
 
     "links":[
