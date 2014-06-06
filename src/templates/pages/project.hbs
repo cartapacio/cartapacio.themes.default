@@ -1,8 +1,8 @@
-<div> <h2 class="text-center">{{document.title}}</h2></div>
+<div> <h2>{{document.title}}</h2></div>
 <div>
 
     {{#each document.body.images}}
-      <div class="thumbnail">
+      <div class="project-img">
         <img src="{{this.file}}" alt="" class="img-responsive full-width">
       </div>
       {{#if_eq @index compare=0}}
@@ -17,10 +17,11 @@
   </div>
 
   <div>
-    <p>{{document.body.date}}<p>
+    <p> <strong>{{document.body.date}}</strong><p>
     <p>{{document.body.description}}</p>
  </div>
 
+  <h3>links</h3>
   <ul>
     {{#each document.body.links}}
       <li><a href="{{this.url}}">{{this.name}}</a></li>

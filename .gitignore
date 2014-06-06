@@ -7,6 +7,9 @@ lib-cov
 *.pid
 *.gz
 *.yo-rc.json
+.DS_Store
+.swp
+.swo
 
 pids
 logs

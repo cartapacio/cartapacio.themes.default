@@ -31,7 +31,7 @@ module.exports = function(grunt) {
     watch: {
       assemble: {
         files: ['<%= config.src %>/{content,data,templates,assets}/{,*/}*.{md,hbs,yml,css}'],
-        tasks: ['assemble']
+        tasks: ['assemble', 'copy']
       },
       livereload: {
         options: {
@@ -58,7 +58,9 @@ module.exports = function(grunt) {
         port: 9000,
         livereload: 35729,
         // change this to '0.0.0.0' to access the server from outside
-        hostname: 'localhost'
+        //hostname: 'localhost'
+        hostname: '0.0.0.0'
+
       },
       livereload: {
         options: {
@@ -110,7 +112,7 @@ module.exports = function(grunt) {
 
   grunt.registerTask('server', [
     'clean',
-    'copy',
+    //'copy',
     'assemble',
     'connect:livereload',
     'watch'

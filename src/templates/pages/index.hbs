@@ -1,10 +1,11 @@
 <div class="row">
+<div class="projects-container">
   {{#each documents}}
-  <div class="col-md-4 col-lg-4">
+  <div class=" col-sm-6 col-md-4 col-lg-3">
 
     <div class="thumbnail">
       <div>
-        <a href="project.html" ><img src="{{this.body.thumb}}" alt=""></a>
+        <a href="project.html" ><img src="{{this.body.thumb}}" alt="" class="img-responsive"></a>
       </div>
       <div class="caption">
         {{this.title}}        
@@ -12,5 +13,6 @@
     </div>
   </div>
   {{/each}}
+  </div>
 </div>
 

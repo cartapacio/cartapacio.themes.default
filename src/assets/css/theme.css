@@ -31,16 +31,36 @@ h1, h2, h3, h4, h5, h6 .nav {
 }
 */
 
+.affix-top{
+	margin-left:5%;
+}
+
+.affix{
+	position:fixed;
+	left:0.8%;
+}
 .body{
 	max-height: 100%;
 	overflow-y : scroll;
 }
+/*  
+.sidebar{
+	margin-left:5%;
+}
+*/
 
 div.thumbnail{
 	border:none;
 }
 
+.projects-container{
+	margin-top:30px;
+}
 
+.project-img{
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
 /* fonts */
 
 
