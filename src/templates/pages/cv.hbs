@@ -1,22 +1,21 @@
 <div>
   <div>
     <h1>Curriculum Vitae</h1>
-    <h2>{{cv.author.name}}</h2>
+    <h2 class="title-margin">{{cv.author.name}}</h2>
     <p> 
-      <a href="mailto:{{cv.author.email}}?Subject=Hello">{{cv.author.email}}</a>
+      <a href="mailto:{{cv.author.email}}?Subject=Hello"> <span class="glyphicon glyphicon-envelope"></span>  {{cv.author.email}}</a>
     </p>
-    <p>{{cv.author.address}}</p>
+    <p> <span class="glyphicon glyphicon-map-marker"></span>  {{cv.author.address}}</p>
+    <p><span class="glyphicon glyphicon glyphicon-earphone"></span>  {{cv.author.phone}}</p>
   </div>
   <div>
-    <h2>Exhibitions</h2>
+    <h2 class="title-margin">Exhibitions</h2>
 
-      <ul>
+      <ul class="list-unstyled">
       {{# each cv.exhibitions}}
         <li>
           <div>
-            <p>{{this.title}}</p>
-            <p>{{this.dates}}</p>
-            <p>{{this.location}}</p>
+          <p> <strong>{{this.title}}</strong>, <em>{{this.location}}</em>, {{this.dates}}</p>
           </div>
         </li>
       {{/ each}}
