@@ -1,4 +1,4 @@
-<div> <h2>{{document.title}}</h2></div>
+<div> <h2>{{document.title_en}}</h2></div>
 <div>
 
     {{#each document.body.images}}
@@ -18,13 +18,6 @@
 
   <div>
     <p> <strong>{{document.body.date}}</strong><p>
-    <p>{{document.body.description}}</p>
+    <p>{{document.body.description_en}}</p>
  </div>
-
-  <h3>links</h3>
-  <ul>
-    {{#each document.body.links}}
-      <li><a href="{{this.url}}">{{this.name}}</a></li>
-    {{/each}}
-  </ul>
 </div>

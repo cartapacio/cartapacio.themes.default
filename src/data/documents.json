@@ -1,169 +1,68 @@
 [
   {
-    "title": "Judith Beheading Holofernes",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1598 - 1599",
-      "thumb":"https://1.bp.blogspot.com/-lQn34TpN6DA/TvJydC7srfI/AAAAAAAAAyM/OnhlXQ3ouvE/s290/judith.jpg",
-      "images": [
-        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Caravaggio_Judith_Beheading_Holofernes.jpg/640px-Caravaggio_Judith_Beheading_Holofernes.jpg"}
-      ],
+    "title_en": "Chambers",
+    "title_es": "Recámaras",
+    "body" : {
+      "description_en" : "This works are composed by boxes/dioramas of abandoned houses. Eachdiorama is built inside of a wooden box, and with the help of a little lightbulb and a simple magnifi­er that archaic mechanism projects the diorama ina dark room.Dioramas and handmade boxes materials came out of abandoned housesdebris, such as rooms, doors, furniture and also from a lot of piled up wasteoutside houses and buildings that little by little became empty shells. Thisproject is also about the magic lantern phenomenon and how to makephotograph through sculpture.",
 
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      "description_es" : "Esta obra se compone de cajas/dioramas de casas abandonadas. Dioramasconstruidos dentro de cajas de madera que con un pequeño bombillo de luzy una lupa sencilla, la cual proyecta su imagen en un cuarto oscuro.Dioramas y cajas hechos de escombros de paredes, habitaciones, pisos ymuebles venidos de montones de desechos, apilados en las fachadas decasas y edifi­caciones que de a poco se vuelven cáscaras vacías. Este proyectogira en torno a la idea de la linterna mágica y sobre cómo hacer fotografía através de la escultura.",
+
+      "date": "2010",
+      "thumb":"assets/img/recamaras/recamaras_thumb.jpg",
+      "images": [
+        {"file" : "assets/img/recamaras/RECAMARAS_BANO_Y_PROYECCION.jpg"},
+        {"file" : "assets/img/recamaras/caja_bano.jpg"},
+        {"file" : "assets/img/recamaras/cajaescaleras.jpg"},
+        {"file" : "assets/img/recamaras/dioramaproypuerta.jpg"},
+        {"file" : "assets/img/recamaras/diorama_escalera.jpg"},
+        {"file" : "assets/img/recamaras/dioramapuertas.jpg"},
+        {"file" : "assets/img/recamaras/escaleras_completo.jpg"},
+        {"file" : "assets/img/recamaras/sala_completo.jpg"}
       ]
     }
   },
-
- {
-    "title": "The Crucifixion of Saint Peter",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1601",
-      "thumb":"http://www.lavocesociale.it/wp-content/uploads/2014/01/Il-Caravaggio-e-la-Crocifissione-di-San-Pietro-200x200.jpg",
-      "images": [
-        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Caravaggio_-_Martirio_di_San_Pietro.jpg/464px-Caravaggio_-_Martirio_di_San_Pietro.jpg"}
-      ],
-
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
-      ]
-    }
-  },
-
-   {
-    "title": "The Incredulity of Saint Thomas",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1601 - 1602",
-      "thumb":"http://www.artmuseum.cz/resources/works/caravaggio_04_detail_02.jpg",
-      "images": [
-        {"file" : "https://en.wikipedia.org/wiki/File:Caravaggio_-_The_Incredulity_of_Saint_Thomas.jpg"}
-      ],
-
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
-      ]
-    }
-  },
-     {
-    "title": "Amor Vincit Omnia",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1601 - 1602",
-      "thumb":"http://images.sartle.com/imagesi/1000131cl.jpg",
-      "images": [
-        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amor_Vincet_Omnia.jpg/342px-Amor_Vincet_Omnia.jpg"}
-      ],
-
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
-      ]
-    }
-  },
-       {
-    "title": "David with the Head of Goliath",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1609 - 1610",
-      "thumb":"http://www.kingsgalleries.com/wp-content/uploads/2010/07/caravaggio-david-goliath-Thumb.jpg",
-      "images": [
-        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Caravaggio_-_David_con_la_testa_di_Golia.jpg/388px-Caravaggio_-_David_con_la_testa_di_Golia.jpg"}
-      ],
-
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
-      ]
-    }
-  },
-
   {
-    "title": "The taking of christ",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1609 - 1610",
-      "thumb":"http://www.wnyc.org/i/200/0/c/80/photologue/photos/michelangelo_caravaggio_resize.jpg",
-      "images": [
-        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Caravaggio_-_Taking_of_Christ_-_Dublin.jpg/624px-Caravaggio_-_Taking_of_Christ_-_Dublin.jpg"}
-      ],
+   "title_en": "Disembodiment",
+    "title_es": "Desdoblamiento",
+    "body" : {
+      "description_en" : "This project is similar as “Chambers”, in this work the observer challenges hisgaze through the e­ffects produced by the device. A box, four holes, lenses, agame of lights and a small diorama sets up this visual exercise that accountsto the principles of the magic lantern. In this case, it is built a woodenprojector that has 4 magnifying lenses and so projects 4 images in a movingdiorama with di­fferent perspectives.Still being an object, the box hides in its guts a magical and revealing space.Four real visions and a disembodiment produced by the movement and themagic of light.",
 
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+      "description_es" : "Se trata de un proyecto similar a Recámaras, en esta obra el observadordesafía su mirada mediante los efectos producidos por el dispositivo. Unacaja, cuatro agujeros, lentes, un juego de luces y una pequeño dioramacon figuran este ejercicio de visualidad que responde a los principios de lalinterna mágica. En este caso, se construyó un proyector en madera quetiene 4 lentes de aumento y así proyecta 4 imágenes un diorama enmovimiento en diferentes perspectivas.La caja aún siendo un objeto, esconde en sus entrañas un espacio mágico yrevelador. Cuatro visiones reales y un desdoblamiento producido por elmovimiento y la magia de la luz.",
+
+      "date": "2010",
+      "thumb":"assets/img/desdoblamiento/desdoblamiento_thumb.jpg",
+      "images": [
+        {"file" : "assets/img/desdoblamiento/Desdoblamientos_proyeccion2.jpg"},
+        {"file" : "assets/img/desdoblamiento/Desdoblamientos1.jpg"},
+        {"file" : "assets/img/desdoblamiento/Desdoblamientos2.jpg"},
+        {"file" : "assets/img/desdoblamiento/desdoblamiento_general_ARTBO_2.jpg"},
+        {"file" : "assets/img/desdoblamiento/desdoblamiento_lado2_ARTBO.jpg"},
+        {"file" : "assets/img/desdoblamiento/desdoblamiento_relacion.jpg"},
+        {"file" : "assets/img/desdoblamiento/IMG_6013.JPG"}
+
       ]
     }
   },
+  {
+     "title_en": "Instalaciones Eléctricas",
+    "title_es": "Electrical Installations",
+    "body" : {
+      "description_en" : "The pieces that make part of this project, electrical outlets, fuse boxes, orlight switches, are present both as image and reflection. These ordinary lightsupply devices are projected through another kind of device-box, and theyare built with a process that is likewise needs light in order to generate theillusion of being in front of the real object.This object is absent, but the projection produced by this precariousprojector contains its image. It is a reflection located in the place where theobject should be, but lacks of utility being just an illusory creation, a drawingwith light that keeps straight relationship with the referent, namely the lightsupply device.",
 
-    {
-    "title": "Boy with a Basket of Fruit",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1594",
-      "thumb":"http://hpbimg.pittart.com/Caravaggio-ragazzo-canestro-frutta.jpg",
+      "description_es" : "Las piezas que hacen parte de este proyecto, tomas eléctricas, cajas de tacosde luz o interruptores, están presentes como imagen y reflejo. Estosdispositivos cotidianos de suministro de luz, se proyectan a través de otro tipo de dispositivo-caja, construidos mediante un proceso que igualmentese vale de la luz para producir la ilusión de estar ante el objeto real.Éste se encuentra ausente, pero la proyección que produce un proyectorprecario contiene su imagen. Es un reflejo que se ubica en el lugar dondedebería estar el objeto, pero su utilidad es deficiente al ser sólo una creaciónilusoria, un dibujo con luz que guarda relación directa con el referente delcual parte, es decir con la instalación eléctrica.",
+
+      "date": "2010",
+      "thumb":"assets/img/instalaciones_electricas/instalaciones_thumb.jpg",
       "images": [
-        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg/459px-Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg"}
-      ],
-
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
+        {"file" : "assets/img/instalaciones_electricas/DSC49000.jpg"},
+        {"file" : "assets/img/instalaciones_electricas/DSC4905.jpg"},
+        {"file" : "assets/img/instalaciones_electricas/Proyeccion_medidor1.jpg"},
+        {"file" : "assets/img/instalaciones_electricas/IMG_2501.jpg"},
+        {"file" : "assets/img/instalaciones_electricas/caja_interruptor.jpg"},
+        {"file" : "assets/img/instalaciones_electricas/caja_toma.jpg"},
+        {"file" : "assets/img/instalaciones_electricas/medidor_caja1.jpg"},
+        {"file" : "assets/img/instalaciones_electricas/Untitled-1.jpg"}
       ]
     }
-  },
-
-    {
-    "title": "Basket of fruit",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1609 - 1610",
-      "thumb":"http://www.artmuseum.cz/resources/works/caravaggio_16c.jpg",
-      "images": [
-        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Canestra_di_frutta_%28Caravaggio%29.jpg/607px-Canestra_di_frutta_%28Caravaggio%29.jpg"}
-      ],
-
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
-      ]
-    }
-  },
-
-    {
-    "title": "The Calling of Saint Matthew",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1599 - 1600",
-      "thumb":"http://www.oilpaintingart.us/media/movsub/religion-painting/caravaggio.jpg",
-      "images": [
-        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Caravaggio%2C_Michelangelo_Merisi_da_-_The_Calling_of_Saint_Matthew_-_1599-1600_%28hi_res%29.jpg/513px-Caravaggio%2C_Michelangelo_Merisi_da_-_The_Calling_of_Saint_Matthew_-_1599-1600_%28hi_res%29.jpg"}
-      ],
-
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
-      ]
-    }
-  },
-
-    {
-    "title": "Supper at Emmaus",
-    "body":{
-      "description":"Then the Dormouse shall! they both cried. Wake up, Dormouse! And  they pinched it on both sides at once.",
-      "date": "1601",
-      "thumb":"http://www.artmuseum.cz/resources/works/caravaggio_11c.jpg",
-      "images": [
-        {"file" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Caravaggio_-_Cena_in_Emmaus.jpg/576px-Caravaggio_-_Cena_in_Emmaus.jpg"}
-      ],
-
-      "links":[
-        {"name": "My manager", "url": "https://en.wikipedia.org/wiki/Francesco_Maria_del_Monte"},
-        {"name" : "My foundation", "url" : "http://www.caravaggio-foundation.org/"}
-      ]
-    }
-  }
-]
+  }    
+ ]

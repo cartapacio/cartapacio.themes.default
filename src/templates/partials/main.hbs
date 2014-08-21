@@ -2,15 +2,9 @@
 <div>
   <h1>{{document.title}}</h1>
 
-  <p>{{document.body.description}}</p>
+  <p>{{document.body.description_en}}</p>
 
   <p>{{document.body.date}}</p>
-
-  <ul>
-  {{#each document.body.links}}
-    <li><a href="{{this.url}}">{{this.name}}</a></li>
-  {{/each}}
-  </ul>
 
   <div>
     {{#each document.body.videos}}
