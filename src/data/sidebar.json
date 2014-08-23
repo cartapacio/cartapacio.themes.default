@@ -1,7 +1,0 @@
-{
-  "menu":[
-      {"title": "Projects", "slug":"index"},
-      {"title":"About","slug":"about"} ,
-      {"title":"Contact", "slug":"#"}
-  ]
-}

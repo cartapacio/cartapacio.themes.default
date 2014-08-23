@@ -5,9 +5,38 @@
   "subtitle_es" : "Obra",
   "author":{
     "name" : "Angelica Teuta",
-    "image": " ",
+    "image": "assets/img/profile/angelica_teuta.png",
+    "email" : "angelicateuta@gmail.com",
+    "address": "Brooklyin, NY",
+    "phone":"(500) 555 555",
     "about_en": "Colombian artist. Her work is characterized by proposing a re­flection about a series of notions such as time, spatiality and the standards of a learned reality. She works particularly with installations that propose perceptual ambients and constructed objects through pre-photographical concepts that support the use of low technologies and the recycling of objects and information. She conceives her production as a constant exploration of thephotographical medium through its relation with the sculpture concept, being the light, the mechanisms and the exhibited space her main resources. Her last exhibition RE/place RE/quest took place in Fotogalleriet in Oslo, Norway. She has shown her projects in Toronto (Canada), San José (Costa Rica), Bogotá and Cali (Colombia). She has been also selected to participatein group exhibitions in Indonesia, Turkey, Canada, United States, Perú, Chile,Mexico, Venezuela, Argentina and Brasil. Being beneficiary of severalawards, she has been able to accomplish residence projects in America, andher installations has been published both in Artforum and ArtNexus.Currently she is having a Master in Visual Arts at Columbia University in NewYork, supported by Banco de La República, Young Talents Scholarship and Colfuturo Foundation.",
 
-    "about_es" : "Artista plástica colombiana. Su trabajo se caracteriza por proponer una refl­exión sobre una serie de nociones como el tiempo, la espacialidad y losestándares de una realidad aprendida. Trabaja particularmente instalacionesque proponen ambientes perceptuales y objetos construidos a partir deconceptos prefotográficos que se soportan en el uso de bajas tecnologías yel reciclaje de objetos e información. Concibe su producción como unaconstante exploración del medio fotográfico a partir de su relación con elconcepto de escultura, siendo la luz, los mecanismos y el espacio exhibitivo,sus principales recursos.Su última exposición RE/place RE/quest se realizó en Fotogalleriet, Oslo,Noruega. Ha mostrado sus proyectos en Toronto (Canadá), San José (CostaRica), Bogotá y Cali (Colombia). También ha sido seleccionada para participaren exposiciones colectivas en Indonesia, Turquía, Canadá, Estados Unidos,Perú, Chile, México, Venezuela, Argentina y Brasil. Ganadora de variospremios y distinciones, ha podido realizar proyectos de residencia enEstados Unidos, Centro y Suramérica, y los reportes de sus instalaciones hansido publicados en Artforum y Artnexus.Actualmente se encuentra realizando una Maestría en Artes Visuales enColumbia University, New York, apoyada por la beca para Jóvenes Talentos2013 del Banco de la República de Colombia y la Fundación Colfuturo."
+    "about_es" : "Artista plástica colombiana. Su trabajo se caracteriza por proponer una refl­exión sobre una serie de nociones como el tiempo, la espacialidad y losestándares de una realidad aprendida. Trabaja particularmente instalacionesque proponen ambientes perceptuales y objetos construidos a partir deconceptos prefotográficos que se soportan en el uso de bajas tecnologías yel reciclaje de objetos e información. Concibe su producción como unaconstante exploración del medio fotográfico a partir de su relación con elconcepto de escultura, siendo la luz, los mecanismos y el espacio exhibitivo,sus principales recursos.Su última exposición RE/place RE/quest se realizó en Fotogalleriet, Oslo,Noruega. Ha mostrado sus proyectos en Toronto (Canadá), San José (CostaRica), Bogotá y Cali (Colombia). También ha sido seleccionada para participaren exposiciones colectivas en Indonesia, Turquía, Canadá, Estados Unidos,Perú, Chile, México, Venezuela, Argentina y Brasil. Ganadora de variospremios y distinciones, ha podido realizar proyectos de residencia enEstados Unidos, Centro y Suramérica, y los reportes de sus instalaciones hansido publicados en Artforum y Artnexus.Actualmente se encuentra realizando una Maestría en Artes Visuales enColumbia University, New York, apoyada por la beca para Jóvenes Talentos2013 del Banco de la República de Colombia y la Fundación Colfuturo.",
+    "cv":{
+      "studies":[
+        {
+          "institution":"Simone Peterzano's atelier",
+          "dates":"1584 - 1590",
+          "location":"Milan, Italy"
+        }
+      ],
+      "exhibitions":[
+        {
+          "title":"The Habsburgs: Rarely Seen Masterpieces From Europe’s Greatest Dynasty",
+          "dates":"February 15 – May 10 2015",
+          "location":"Minneapolis Institute of Arts, Minneapolis, MN, USA "
+        },
+        {
+          "title":"Rome 17th Century: Towards Baroque",
+          "dates":"April 30 2014 - February 2015",
+          "location":"National Museum of China, Beijing, China"
+        },
+        {
+          "title":"Caravaggio to Canaletto",
+          "dates":"October 26 2013 – February 16, 2014",
+          "location":"Museum of Fine Arts, Budapest, Hungary"
+        }
+      ]
+    }
 	}
 }

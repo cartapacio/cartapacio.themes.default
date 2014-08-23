@@ -28,6 +28,7 @@ module.exports = function(grunt) {
 
     },
 
+
     watch: {
       assemble: {
         files: ['<%= config.src %>/{content,data,templates,assets}/{,*/}*.{md,hbs,yml,css}'],
@@ -84,17 +85,29 @@ module.exports = function(grunt) {
     },
 
     assemble: {
+      options: {
+        flatten: true,
+        assets: '<%= config.dist %>/assets',
+        layoutdir: '<%= config.src %>/templates/layouts/',
+        partials: '<%= config.src %>/templates/partials/*.hbs'
+      },
       pages: {
         options: {
-          flatten: true,
-          assets: '<%= config.dist %>/assets',
-          layout: '<%= config.src %>/templates/layouts/default.hbs',
+          layout: 'default.hbs',
           data: '<%= config.src %>/data/*.{json,yml}',
-          partials: '<%= config.src %>/templates/partials/*.hbs'
+          documents: grunt.file.readJSON('src/data/documents.json')
         },
         files: {
           '<%= config.dist %>/': ['<%= config.src %>/templates/pages/*.hbs']
         }
+      },
+      projects:{
+        options: {
+          engine: 'handlebars',
+          layout: 'project.hbs',
+          pages: grunt.file.readJSON('src/data/documents.json'),
+        },
+        files:{'<%= config.dist %>/projects/':['<%= config.src %>/templates/projects/project_list.hbs']}
       }
     },
 

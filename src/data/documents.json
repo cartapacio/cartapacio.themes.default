@@ -1,68 +1,79 @@
 [
   {
-    "title_en": "Chambers",
-    "title_es": "Recámaras",
-    "body" : {
-      "description_en" : "This works are composed by boxes/dioramas of abandoned houses. Eachdiorama is built inside of a wooden box, and with the help of a little lightbulb and a simple magnifi­er that archaic mechanism projects the diorama ina dark room.Dioramas and handmade boxes materials came out of abandoned housesdebris, such as rooms, doors, furniture and also from a lot of piled up wasteoutside houses and buildings that little by little became empty shells. Thisproject is also about the magic lantern phenomenon and how to makephotograph through sculpture.",
+  "filename":"chambers",
+  "data": {
+      "title_en": "Chambers",
+      "title_es": "Recámaras",
+      "body" : {
+        "description_en" : "This works are composed by boxes/dioramas of abandoned houses. Eachdiorama is built inside of a wooden box, and with the help of a little lightbulb and a simple magnifi­er that archaic mechanism projects the diorama ina dark room.Dioramas and handmade boxes materials came out of abandoned housesdebris, such as rooms, doors, furniture and also from a lot of piled up wasteoutside houses and buildings that little by little became empty shells. Thisproject is also about the magic lantern phenomenon and how to makephotograph through sculpture.",
 
-      "description_es" : "Esta obra se compone de cajas/dioramas de casas abandonadas. Dioramasconstruidos dentro de cajas de madera que con un pequeño bombillo de luzy una lupa sencilla, la cual proyecta su imagen en un cuarto oscuro.Dioramas y cajas hechos de escombros de paredes, habitaciones, pisos ymuebles venidos de montones de desechos, apilados en las fachadas decasas y edifi­caciones que de a poco se vuelven cáscaras vacías. Este proyectogira en torno a la idea de la linterna mágica y sobre cómo hacer fotografía através de la escultura.",
+        "description_es" : "Esta obra se compone de cajas/dioramas de casas abandonadas. Dioramasconstruidos dentro de cajas de madera que con un pequeño bombillo de luzy una lupa sencilla, la cual proyecta su imagen en un cuarto oscuro.Dioramas y cajas hechos de escombros de paredes, habitaciones, pisos ymuebles venidos de montones de desechos, apilados en las fachadas decasas y edifi­caciones que de a poco se vuelven cáscaras vacías. Este proyectogira en torno a la idea de la linterna mágica y sobre cómo hacer fotografía através de la escultura.",
 
-      "date": "2010",
-      "thumb":"assets/img/recamaras/recamaras_thumb.jpg",
-      "images": [
-        {"file" : "assets/img/recamaras/RECAMARAS_BANO_Y_PROYECCION.jpg"},
-        {"file" : "assets/img/recamaras/caja_bano.jpg"},
-        {"file" : "assets/img/recamaras/cajaescaleras.jpg"},
-        {"file" : "assets/img/recamaras/dioramaproypuerta.jpg"},
-        {"file" : "assets/img/recamaras/diorama_escalera.jpg"},
-        {"file" : "assets/img/recamaras/dioramapuertas.jpg"},
-        {"file" : "assets/img/recamaras/escaleras_completo.jpg"},
-        {"file" : "assets/img/recamaras/sala_completo.jpg"}
-      ]
+        "date": "2010",
+        "thumb":"../assets/img/recamaras/recamaras_thumb.jpg",
+        "images": [
+          {"file" : "../assets/img/recamaras/RECAMARAS_BANO_Y_PROYECCION.jpg"},
+          {"file" : "../assets/img/recamaras/caja_bano.jpg"},
+          {"file" : "../assets/img/recamaras/cajaescaleras.jpg"},
+          {"file" : "../assets/img/recamaras/dioramaproypuerta.jpg"},
+          {"file" : "../assets/img/recamaras/diorama_escalera.jpg"},
+          {"file" : "../assets/img/recamaras/dioramapuertas.jpg"},
+          {"file" : "../assets/img/recamaras/escaleras_completo.jpg"},
+          {"file" : "../assets/img/recamaras/sala_completo.jpg"}
+        ]
+      }
     }
   },
+
   {
-   "title_en": "Disembodiment",
+  "filename": "disembodiment",
+  "data": {
+    "title_en": "Disembodiment",
     "title_es": "Desdoblamiento",
     "body" : {
-      "description_en" : "This project is similar as “Chambers”, in this work the observer challenges hisgaze through the e­ffects produced by the device. A box, four holes, lenses, agame of lights and a small diorama sets up this visual exercise that accountsto the principles of the magic lantern. In this case, it is built a woodenprojector that has 4 magnifying lenses and so projects 4 images in a movingdiorama with di­fferent perspectives.Still being an object, the box hides in its guts a magical and revealing space.Four real visions and a disembodiment produced by the movement and themagic of light.",
+        "description_en" : "This project is similar as “Chambers”, in this work the observer challenges hisgaze through the e­ffects produced by the device. A box, four holes, lenses, agame of lights and a small diorama sets up this visual exercise that accountsto the principles of the magic lantern. In this case, it is built a woodenprojector that has 4 magnifying lenses and so projects 4 images in a movingdiorama with di­fferent perspectives.Still being an object, the box hides in its guts a magical and revealing space.Four real visions and a disembodiment produced by the movement and themagic of light.",
 
-      "description_es" : "Se trata de un proyecto similar a Recámaras, en esta obra el observadordesafía su mirada mediante los efectos producidos por el dispositivo. Unacaja, cuatro agujeros, lentes, un juego de luces y una pequeño dioramacon figuran este ejercicio de visualidad que responde a los principios de lalinterna mágica. En este caso, se construyó un proyector en madera quetiene 4 lentes de aumento y así proyecta 4 imágenes un diorama enmovimiento en diferentes perspectivas.La caja aún siendo un objeto, esconde en sus entrañas un espacio mágico yrevelador. Cuatro visiones reales y un desdoblamiento producido por elmovimiento y la magia de la luz.",
+        "description_es" : "Se trata de un proyecto similar a Recámaras, en esta obra el observadordesafía su mirada mediante los efectos producidos por el dispositivo. Unacaja, cuatro agujeros, lentes, un juego de luces y una pequeño dioramacon figuran este ejercicio de visualidad que responde a los principios de lalinterna mágica. En este caso, se construyó un proyector en madera quetiene 4 lentes de aumento y así proyecta 4 imágenes un diorama enmovimiento en diferentes perspectivas.La caja aún siendo un objeto, esconde en sus entrañas un espacio mágico yrevelador. Cuatro visiones reales y un desdoblamiento producido por elmovimiento y la magia de la luz.",
 
-      "date": "2010",
-      "thumb":"assets/img/desdoblamiento/desdoblamiento_thumb.jpg",
-      "images": [
-        {"file" : "assets/img/desdoblamiento/Desdoblamientos_proyeccion2.jpg"},
-        {"file" : "assets/img/desdoblamiento/Desdoblamientos1.jpg"},
-        {"file" : "assets/img/desdoblamiento/Desdoblamientos2.jpg"},
-        {"file" : "assets/img/desdoblamiento/desdoblamiento_general_ARTBO_2.jpg"},
-        {"file" : "assets/img/desdoblamiento/desdoblamiento_lado2_ARTBO.jpg"},
-        {"file" : "assets/img/desdoblamiento/desdoblamiento_relacion.jpg"},
-        {"file" : "assets/img/desdoblamiento/IMG_6013.JPG"}
+        "date": "2010",
+        "thumb":"../assets/img/desdoblamiento/desdoblamiento_thumb.jpg",
+        "images": [
+          {"file" : "../assets/img/desdoblamiento/Desdoblamientos_proyeccion2.jpg"},
+          {"file" : "../assets/img/desdoblamiento/Desdoblamientos1.jpg"},
+          {"file" : "../assets/img/desdoblamiento/Desdoblamientos2.jpg"},
+          {"file" : "../assets/img/desdoblamiento/desdoblamiento_general_ARTBO_2.jpg"},
+          {"file" : "../assets/img/desdoblamiento/desdoblamiento_lado2_ARTBO.jpg"},
+          {"file" : "../assets/img/desdoblamiento/desdoblamiento_relacion.jpg"},
+          {"file" : "../assets/img/desdoblamiento/IMG_6013.JPG"}
 
-      ]
+        ]
+      }
     }
   },
+
   {
+  "filename":"electrical_installations",
+  "data" : {
      "title_en": "Instalaciones Eléctricas",
     "title_es": "Electrical Installations",
     "body" : {
-      "description_en" : "The pieces that make part of this project, electrical outlets, fuse boxes, orlight switches, are present both as image and reflection. These ordinary lightsupply devices are projected through another kind of device-box, and theyare built with a process that is likewise needs light in order to generate theillusion of being in front of the real object.This object is absent, but the projection produced by this precariousprojector contains its image. It is a reflection located in the place where theobject should be, but lacks of utility being just an illusory creation, a drawingwith light that keeps straight relationship with the referent, namely the lightsupply device.",
+        "description_en" : "The pieces that make part of this project, electrical outlets, fuse boxes, orlight switches, are present both as image and reflection. These ordinary lightsupply devices are projected through another kind of device-box, and theyare built with a process that is likewise needs light in order to generate theillusion of being in front of the real object.This object is absent, but the projection produced by this precariousprojector contains its image. It is a reflection located in the place where theobject should be, but lacks of utility being just an illusory creation, a drawingwith light that keeps straight relationship with the referent, namely the lightsupply device.",
 
-      "description_es" : "Las piezas que hacen parte de este proyecto, tomas eléctricas, cajas de tacosde luz o interruptores, están presentes como imagen y reflejo. Estosdispositivos cotidianos de suministro de luz, se proyectan a través de otro tipo de dispositivo-caja, construidos mediante un proceso que igualmentese vale de la luz para producir la ilusión de estar ante el objeto real.Éste se encuentra ausente, pero la proyección que produce un proyectorprecario contiene su imagen. Es un reflejo que se ubica en el lugar dondedebería estar el objeto, pero su utilidad es deficiente al ser sólo una creaciónilusoria, un dibujo con luz que guarda relación directa con el referente delcual parte, es decir con la instalación eléctrica.",
+        "description_es" : "Las piezas que hacen parte de este proyecto, tomas eléctricas, cajas de tacosde luz o interruptores, están presentes como imagen y reflejo. Estosdispositivos cotidianos de suministro de luz, se proyectan a través de otro tipo de dispositivo-caja, construidos mediante un proceso que igualmentese vale de la luz para producir la ilusión de estar ante el objeto real.Éste se encuentra ausente, pero la proyección que produce un proyectorprecario contiene su imagen. Es un reflejo que se ubica en el lugar dondedebería estar el objeto, pero su utilidad es deficiente al ser sólo una creaciónilusoria, un dibujo con luz que guarda relación directa con el referente delcual parte, es decir con la instalación eléctrica.",
 
-      "date": "2010",
-      "thumb":"assets/img/instalaciones_electricas/instalaciones_thumb.jpg",
-      "images": [
-        {"file" : "assets/img/instalaciones_electricas/DSC49000.jpg"},
-        {"file" : "assets/img/instalaciones_electricas/DSC4905.jpg"},
-        {"file" : "assets/img/instalaciones_electricas/Proyeccion_medidor1.jpg"},
-        {"file" : "assets/img/instalaciones_electricas/IMG_2501.jpg"},
-        {"file" : "assets/img/instalaciones_electricas/caja_interruptor.jpg"},
-        {"file" : "assets/img/instalaciones_electricas/caja_toma.jpg"},
-        {"file" : "assets/img/instalaciones_electricas/medidor_caja1.jpg"},
-        {"file" : "assets/img/instalaciones_electricas/Untitled-1.jpg"}
-      ]
+        "date": "2010",
+        "thumb":"../assets/img/instalaciones_electricas/instalaciones_thumb.jpg",
+        "images": [
+          {"file" : "../assets/img/instalaciones_electricas/DSC49000.jpg"},
+          {"file" : "../assets/img/instalaciones_electricas/DSC4905.jpg"},
+          {"file" : "../assets/img/instalaciones_electricas/Proyeccion_medidor1.jpg"},
+          {"file" : "../assets/img/instalaciones_electricas/IMG_2501.jpg"},
+          {"file" : "../assets/img/instalaciones_electricas/caja_interruptor.jpg"},
+          {"file" : "../assets/img/instalaciones_electricas/caja_toma.jpg"},
+          {"file" : "../assets/img/instalaciones_electricas/medidor_caja1.jpg"},
+          {"file" : "../assets/img/instalaciones_electricas/Untitled-1.jpg"}
+        ]
+      }
     }
   }    
- ]
+]

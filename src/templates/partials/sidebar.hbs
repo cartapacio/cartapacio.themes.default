@@ -1,8 +1,8 @@
 <div class="sidebar" data-spy="affix" data-offset-top="10" >
   <h2><a href="index.html">{{site.title_en}}</a></h2>
   <ul class="nav nav-stacked">
-    {{#each sidebar.menu}}
-    <li><a href="{{this.slug}}.html">{{this.title}}</a></li>
+    {{#each pages}}
+    <li><a href="{{basename}}.html">{{basename}}</a></li>
     {{/each}}
   </ul>
 </div>
